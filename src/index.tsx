@@ -31,7 +31,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
-function routes() {
-  throw new Error('Function not implemented.');
-}
 
